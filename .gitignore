@@ -1,0 +1,15 @@
+*/bin/Debug
+*/bin/Protected
+
+*/bin/Release/derptide
+
+*/bin/Installer/*.msi
+*/bin/Installer/*-cache
+
+*/obj/
+
+.vs
+/Backup/
+UpgradeLog.htm
+
+screenshots/.wdmc
