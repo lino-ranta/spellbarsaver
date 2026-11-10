@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Spellbar Saver">
+</Property><Property Name="Solution File" Value="I:\Installed\games\ac\decal3_alpha8\SpellbarSaver-VVS\SpellbarSaver-VVS\Spellbar Saver.sln">
+</Property><Property Name="Date" Value="Saturday, June 05, 2010">
+</Property><Property Name="Time" Value="14:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Spellbar Saver" Source="Spellbar Saver\Spellbar Saver.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Spellbar Saver" Source="Spellbar Saver\Spellbar Saver.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Spellbar Saver.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Spellbar Saver.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Spellbar Saver" Source="Spellbar Saver\Spellbar Saver.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
